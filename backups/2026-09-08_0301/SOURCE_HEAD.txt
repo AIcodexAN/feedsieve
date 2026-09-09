@@ -1,0 +1,1 @@
+fda4cc9580ef308bfda25e6e1e6af320b4fa8cf7 2026-09-08 00:44:14 +0800 docs(release): v0.8.0 发布产物 checksum 回填
